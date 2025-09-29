@@ -1,6 +1,6 @@
 American Sign Language Detection
 
-End-to-end project to train and deploy an **American Sign Language (ASL) image classifier** and interactive word maker tool.
+End-to-end project to train and deploy an "American Sign Language (ASL) image classifier" and interactive word maker tool.
 
 Dataset Layout
 
@@ -21,6 +21,9 @@ data/
   asl_alphabet_test/
     A_test.jpg
     ...
+
+> Also Run the `install_modules.bat` file 
+then follow the steps below
 
 > If your folders differ, edit paths in `src/config.py`.
 

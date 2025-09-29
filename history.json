@@ -1,0 +1,2563 @@
+{
+  "upload": [
+    {
+      "file": "W8.jpg",
+      "prediction": "W",
+      "confidence": 0.9952593445777893,
+      "top5": [
+        {
+          "label": "W",
+          "confidence": 0.9952593445777893
+        },
+        {
+          "label": "Y",
+          "confidence": 0.004740648437291384
+        },
+        {
+          "label": "F",
+          "confidence": 1.1698750150036796e-13
+        },
+        {
+          "label": "P",
+          "confidence": 6.080610326234318e-14
+        },
+        {
+          "label": "nothing",
+          "confidence": 3.5298488714223183e-14
+        }
+      ],
+      "image": "..\\captures\\upload\\W8_20250820_040509.jpg",
+      "timestamp": "2025-08-20 04:05:10"
+    },
+    {
+      "file": "W7.jpg",
+      "prediction": "W",
+      "confidence": 0.9992755055427551,
+      "top5": [
+        {
+          "label": "W",
+          "confidence": 0.9992755055427551
+        },
+        {
+          "label": "Y",
+          "confidence": 0.0007244909065775573
+        },
+        {
+          "label": "P",
+          "confidence": 2.2071359768050663e-13
+        },
+        {
+          "label": "F",
+          "confidence": 1.1637957578972818e-13
+        },
+        {
+          "label": "nothing",
+          "confidence": 3.02182900284529e-14
+        }
+      ],
+      "image": "..\\captures\\upload\\W7_20250820_040621.jpg",
+      "timestamp": "2025-08-20 04:06:22"
+    },
+    {
+      "file": "W7.jpg",
+      "prediction": "W",
+      "confidence": 0.9992755055427551,
+      "top5": [
+        {
+          "label": "W",
+          "confidence": 0.9992755055427551
+        },
+        {
+          "label": "Y",
+          "confidence": 0.0007244909065775573
+        },
+        {
+          "label": "P",
+          "confidence": 2.2071359768050663e-13
+        },
+        {
+          "label": "F",
+          "confidence": 1.1637957578972818e-13
+        },
+        {
+          "label": "nothing",
+          "confidence": 3.02182900284529e-14
+        }
+      ],
+      "image": "..\\captures\\upload\\W7_20250820_040839.jpg",
+      "timestamp": "2025-08-20 04:08:40"
+    },
+    {
+      "file": "W83.jpg",
+      "prediction": "W",
+      "confidence": 0.999789297580719,
+      "top5": [
+        {
+          "label": "W",
+          "confidence": 0.999789297580719
+        },
+        {
+          "label": "Y",
+          "confidence": 0.0002107222389895469
+        },
+        {
+          "label": "nothing",
+          "confidence": 3.204061636234018e-13
+        },
+        {
+          "label": "H",
+          "confidence": 2.4030338266131657e-13
+        },
+        {
+          "label": "P",
+          "confidence": 5.230954033239076e-15
+        }
+      ],
+      "image": "..\\captures\\upload\\W83_20250820_040843.jpg",
+      "timestamp": "2025-08-20 04:08:45"
+    },
+    {
+      "file": "M102.jpg",
+      "prediction": "M",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "M",
+          "confidence": 1.0
+        },
+        {
+          "label": "N",
+          "confidence": 2.4500685768397146e-12
+        },
+        {
+          "label": "W",
+          "confidence": 9.752074948451482e-17
+        },
+        {
+          "label": "nothing",
+          "confidence": 6.869770721455357e-17
+        },
+        {
+          "label": "E",
+          "confidence": 2.261583966228423e-18
+        }
+      ],
+      "image": "..\\captures\\upload\\M102_20250820_040909.jpg",
+      "timestamp": "2025-08-20 04:09:10"
+    },
+    {
+      "file": "C1919.jpg",
+      "prediction": "C",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "C",
+          "confidence": 1.0
+        },
+        {
+          "label": "G",
+          "confidence": 7.908940169443213e-10
+        },
+        {
+          "label": "P",
+          "confidence": 1.7083367056039411e-12
+        },
+        {
+          "label": "Q",
+          "confidence": 5.606045684093675e-13
+        },
+        {
+          "label": "Y",
+          "confidence": 1.2055454020037243e-14
+        }
+      ],
+      "image": "..\\captures\\upload\\C1919_20250820_041314.jpg",
+      "timestamp": "2025-08-20 04:13:16"
+    },
+    {
+      "file": "C1919.jpg",
+      "prediction": "C",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "C",
+          "confidence": 1.0
+        },
+        {
+          "label": "G",
+          "confidence": 7.908940169443213e-10
+        },
+        {
+          "label": "P",
+          "confidence": 1.7083367056039411e-12
+        },
+        {
+          "label": "Q",
+          "confidence": 5.606045684093675e-13
+        },
+        {
+          "label": "Y",
+          "confidence": 1.2055454020037243e-14
+        }
+      ],
+      "image": "..\\captures\\upload\\C1919_20250820_041519.jpg",
+      "timestamp": "2025-08-20 04:15:20"
+    },
+    {
+      "file": "C6.jpg",
+      "prediction": "C",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "C",
+          "confidence": 1.0
+        },
+        {
+          "label": "P",
+          "confidence": 3.9721927698845635e-15
+        },
+        {
+          "label": "G",
+          "confidence": 3.494124727476276e-16
+        },
+        {
+          "label": "T",
+          "confidence": 2.2504926901695873e-16
+        },
+        {
+          "label": "F",
+          "confidence": 8.630275101019727e-17
+        }
+      ],
+      "image": "..\\captures\\upload\\C6_20250820_041552.jpg",
+      "timestamp": "2025-08-20 04:15:53"
+    },
+    {
+      "file": "C7.jpg",
+      "prediction": "C",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "C",
+          "confidence": 1.0
+        },
+        {
+          "label": "P",
+          "confidence": 1.8403986288498958e-14
+        },
+        {
+          "label": "G",
+          "confidence": 6.628309792038652e-15
+        },
+        {
+          "label": "T",
+          "confidence": 1.2240298420226523e-15
+        },
+        {
+          "label": "F",
+          "confidence": 3.830393366464885e-16
+        }
+      ],
+      "image": "..\\captures\\upload\\C7_20250820_041553.jpg",
+      "timestamp": "2025-08-20 04:15:53"
+    },
+    {
+      "file": "C8.jpg",
+      "prediction": "C",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "C",
+          "confidence": 1.0
+        },
+        {
+          "label": "P",
+          "confidence": 2.9232854015199617e-15
+        },
+        {
+          "label": "G",
+          "confidence": 2.0973467510258456e-15
+        },
+        {
+          "label": "T",
+          "confidence": 4.3649788881853276e-16
+        },
+        {
+          "label": "F",
+          "confidence": 9.021775714474135e-17
+        }
+      ],
+      "image": "..\\captures\\upload\\C8_20250820_041553.jpg",
+      "timestamp": "2025-08-20 04:15:53"
+    },
+    {
+      "file": "C9.jpg",
+      "prediction": "C",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "C",
+          "confidence": 1.0
+        },
+        {
+          "label": "G",
+          "confidence": 4.316514204042278e-15
+        },
+        {
+          "label": "P",
+          "confidence": 2.7592778000749005e-15
+        },
+        {
+          "label": "F",
+          "confidence": 4.4028232614774657e-16
+        },
+        {
+          "label": "T",
+          "confidence": 3.7449322419494586e-16
+        }
+      ],
+      "image": "..\\captures\\upload\\C9_20250820_041553.jpg",
+      "timestamp": "2025-08-20 04:15:53"
+    },
+    {
+      "file": "C10.jpg",
+      "prediction": "C",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "C",
+          "confidence": 1.0
+        },
+        {
+          "label": "P",
+          "confidence": 3.540091617336991e-15
+        },
+        {
+          "label": "G",
+          "confidence": 1.0324087547388641e-15
+        },
+        {
+          "label": "F",
+          "confidence": 1.6356157242388276e-16
+        },
+        {
+          "label": "T",
+          "confidence": 1.1086946595509546e-16
+        }
+      ],
+      "image": "..\\captures\\upload\\C10_20250820_041553.jpg",
+      "timestamp": "2025-08-20 04:15:54"
+    },
+    {
+      "file": "C13.jpg",
+      "prediction": "C",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "C",
+          "confidence": 1.0
+        },
+        {
+          "label": "P",
+          "confidence": 2.0536582146218202e-13
+        },
+        {
+          "label": "G",
+          "confidence": 9.86369460501818e-14
+        },
+        {
+          "label": "F",
+          "confidence": 6.9811557657775344e-15
+        },
+        {
+          "label": "T",
+          "confidence": 3.8569028507359846e-16
+        }
+      ],
+      "image": "..\\captures\\upload\\C13_20250820_144228.jpg",
+      "timestamp": "2025-08-20 14:42:29"
+    },
+    {
+      "file": "C13.jpg",
+      "prediction": "C",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "C",
+          "confidence": 1.0
+        },
+        {
+          "label": "P",
+          "confidence": 2.0536582146218202e-13
+        },
+        {
+          "label": "G",
+          "confidence": 9.86369460501818e-14
+        },
+        {
+          "label": "F",
+          "confidence": 6.9811557657775344e-15
+        },
+        {
+          "label": "T",
+          "confidence": 3.8569028507359846e-16
+        }
+      ],
+      "image": "captures\\upload\\C13_20250820_144325.jpg",
+      "timestamp": "2025-08-20 14:43:27"
+    },
+    {
+      "file": "C8.jpg",
+      "prediction": "C",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "C",
+          "confidence": 1.0
+        },
+        {
+          "label": "P",
+          "confidence": 2.9232854015199617e-15
+        },
+        {
+          "label": "G",
+          "confidence": 2.0973467510258456e-15
+        },
+        {
+          "label": "T",
+          "confidence": 4.3649788881853276e-16
+        },
+        {
+          "label": "F",
+          "confidence": 9.021775714474135e-17
+        }
+      ],
+      "image": "captures\\quiz\\quiz_20250820_194132.jpg",
+      "timestamp": "2025-08-20 19:41:32"
+    },
+    {
+      "file": "C6.jpg",
+      "prediction": "C",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "C",
+          "confidence": 1.0
+        },
+        {
+          "label": "P",
+          "confidence": 3.9721927698845635e-15
+        },
+        {
+          "label": "G",
+          "confidence": 3.494124727476276e-16
+        },
+        {
+          "label": "T",
+          "confidence": 2.2504926901695873e-16
+        },
+        {
+          "label": "F",
+          "confidence": 8.630275101019727e-17
+        }
+      ],
+      "image": "captures\\quiz\\quiz_20250820_200645.jpg",
+      "timestamp": "2025-08-20 20:06:45"
+    },
+    {
+      "file": "C7.jpg",
+      "prediction": "C",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "C",
+          "confidence": 1.0
+        },
+        {
+          "label": "P",
+          "confidence": 1.8403986288498958e-14
+        },
+        {
+          "label": "G",
+          "confidence": 6.628309792038652e-15
+        },
+        {
+          "label": "T",
+          "confidence": 1.2240298420226523e-15
+        },
+        {
+          "label": "F",
+          "confidence": 3.830393366464885e-16
+        }
+      ],
+      "image": "captures\\quiz\\quiz_20250820_200646.jpg",
+      "timestamp": "2025-08-20 20:06:46"
+    },
+    {
+      "file": "C11.jpg",
+      "prediction": "C",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "C",
+          "confidence": 1.0
+        },
+        {
+          "label": "P",
+          "confidence": 1.1742463826378696e-13
+        },
+        {
+          "label": "G",
+          "confidence": 8.625877925350425e-14
+        },
+        {
+          "label": "F",
+          "confidence": 1.1358058548519598e-15
+        },
+        {
+          "label": "T",
+          "confidence": 2.9626893742262317e-16
+        }
+      ],
+      "image": "captures\\quiz\\quiz_20250820_200646.jpg",
+      "timestamp": "2025-08-20 20:06:46"
+    },
+    {
+      "file": "C12.jpg",
+      "prediction": "C",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "C",
+          "confidence": 1.0
+        },
+        {
+          "label": "G",
+          "confidence": 7.310529270701874e-14
+        },
+        {
+          "label": "P",
+          "confidence": 1.3963836190860127e-14
+        },
+        {
+          "label": "F",
+          "confidence": 9.084154767660408e-15
+        },
+        {
+          "label": "T",
+          "confidence": 2.414271116262857e-15
+        }
+      ],
+      "image": "captures\\quiz\\quiz_20250820_200646.jpg",
+      "timestamp": "2025-08-20 20:06:46"
+    },
+    {
+      "file": "V7.jpg",
+      "prediction": "V",
+      "confidence": 0.6698825359344482,
+      "top5": [
+        {
+          "label": "V",
+          "confidence": 0.6698825359344482
+        },
+        {
+          "label": "W",
+          "confidence": 0.31327611207962036
+        },
+        {
+          "label": "Y",
+          "confidence": 0.016820045188069344
+        },
+        {
+          "label": "N",
+          "confidence": 1.9613031327025965e-05
+        },
+        {
+          "label": "K",
+          "confidence": 8.784084570834239e-07
+        }
+      ],
+      "image": "captures\\quiz\\quiz_20250820_201225.jpg",
+      "timestamp": "2025-08-20 20:12:25"
+    },
+    {
+      "file": "V47.jpg",
+      "prediction": "V",
+      "confidence": 0.9999897480010986,
+      "top5": [
+        {
+          "label": "V",
+          "confidence": 0.9999897480010986
+        },
+        {
+          "label": "Y",
+          "confidence": 1.0100664439960383e-05
+        },
+        {
+          "label": "W",
+          "confidence": 1.214371536661929e-07
+        },
+        {
+          "label": "F",
+          "confidence": 4.5463437459147826e-08
+        },
+        {
+          "label": "G",
+          "confidence": 1.783585368286822e-08
+        }
+      ],
+      "image": "captures\\quiz\\quiz_20250820_201402.jpg",
+      "timestamp": "2025-08-20 20:14:02"
+    },
+    {
+      "file": "H6.jpg",
+      "prediction": "H",
+      "confidence": 0.9993378520011902,
+      "top5": [
+        {
+          "label": "H",
+          "confidence": 0.9993378520011902
+        },
+        {
+          "label": "P",
+          "confidence": 0.0006532492116093636
+        },
+        {
+          "label": "N",
+          "confidence": 8.81077994563384e-06
+        },
+        {
+          "label": "nothing",
+          "confidence": 9.501183484417197e-08
+        },
+        {
+          "label": "G",
+          "confidence": 2.4111717067398786e-08
+        }
+      ],
+      "image": "captures\\quiz\\quiz_20250821_132540.jpg",
+      "timestamp": "2025-08-21 13:25:40"
+    },
+    {
+      "file": "D92.jpg",
+      "prediction": "D",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "D",
+          "confidence": 1.0
+        },
+        {
+          "label": "I",
+          "confidence": 6.138830443182797e-19
+        },
+        {
+          "label": "space",
+          "confidence": 2.4177589746008848e-19
+        },
+        {
+          "label": "P",
+          "confidence": 1.954825535327993e-20
+        },
+        {
+          "label": "C",
+          "confidence": 1.7866372601348012e-20
+        }
+      ],
+      "image": "captures\\quiz\\quiz_20250821_134108.jpg",
+      "timestamp": "2025-08-21 13:41:08"
+    },
+    {
+      "file": "D92.jpg",
+      "prediction": "D",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "D",
+          "confidence": 1.0
+        },
+        {
+          "label": "I",
+          "confidence": 6.138830443182797e-19
+        },
+        {
+          "label": "space",
+          "confidence": 2.4177589746008848e-19
+        },
+        {
+          "label": "P",
+          "confidence": 1.954825535327993e-20
+        },
+        {
+          "label": "C",
+          "confidence": 1.7866372601348012e-20
+        }
+      ],
+      "image": "captures\\quiz\\quiz_20250821_134113.jpg",
+      "timestamp": "2025-08-21 13:41:13"
+    },
+    {
+      "file": "D50.jpg",
+      "prediction": "D",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "D",
+          "confidence": 1.0
+        },
+        {
+          "label": "X",
+          "confidence": 6.5085057307388705e-19
+        },
+        {
+          "label": "space",
+          "confidence": 2.0930586601720557e-19
+        },
+        {
+          "label": "I",
+          "confidence": 5.833582056339977e-20
+        },
+        {
+          "label": "P",
+          "confidence": 3.7278073683309934e-20
+        }
+      ],
+      "image": "captures\\quiz\\quiz_20250821_134128.jpg",
+      "timestamp": "2025-08-21 13:41:28"
+    },
+    {
+      "file": "D50.jpg",
+      "prediction": "D",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "D",
+          "confidence": 1.0
+        },
+        {
+          "label": "X",
+          "confidence": 6.5085057307388705e-19
+        },
+        {
+          "label": "space",
+          "confidence": 2.0930586601720557e-19
+        },
+        {
+          "label": "I",
+          "confidence": 5.833582056339977e-20
+        },
+        {
+          "label": "P",
+          "confidence": 3.7278073683309934e-20
+        }
+      ],
+      "image": "captures\\quiz\\quiz_20250821_134131.jpg",
+      "timestamp": "2025-08-21 13:41:31"
+    },
+    {
+      "file": "D13.jpg",
+      "prediction": "D",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "D",
+          "confidence": 1.0
+        },
+        {
+          "label": "I",
+          "confidence": 4.3880041961097405e-11
+        },
+        {
+          "label": "R",
+          "confidence": 3.178449799363936e-14
+        },
+        {
+          "label": "X",
+          "confidence": 2.2307551178447557e-14
+        },
+        {
+          "label": "space",
+          "confidence": 7.201988160675926e-16
+        }
+      ],
+      "image": "captures\\quiz\\quiz_20250821_134138.jpg",
+      "timestamp": "2025-08-21 13:41:38"
+    },
+    {
+      "file": "D13.jpg",
+      "prediction": "D",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "D",
+          "confidence": 1.0
+        },
+        {
+          "label": "I",
+          "confidence": 4.3880041961097405e-11
+        },
+        {
+          "label": "R",
+          "confidence": 3.178449799363936e-14
+        },
+        {
+          "label": "X",
+          "confidence": 2.2307551178447557e-14
+        },
+        {
+          "label": "space",
+          "confidence": 7.201988160675926e-16
+        }
+      ],
+      "image": "captures\\quiz\\quiz_20250821_134146.jpg",
+      "timestamp": "2025-08-21 13:41:46"
+    },
+    {
+      "file": "D13.jpg",
+      "prediction": "D",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "D",
+          "confidence": 1.0
+        },
+        {
+          "label": "I",
+          "confidence": 4.3880041961097405e-11
+        },
+        {
+          "label": "R",
+          "confidence": 3.178449799363936e-14
+        },
+        {
+          "label": "X",
+          "confidence": 2.2307551178447557e-14
+        },
+        {
+          "label": "space",
+          "confidence": 7.201988160675926e-16
+        }
+      ],
+      "image": "captures\\quiz\\quiz_20250821_135741.jpg",
+      "timestamp": "2025-08-21 13:57:41"
+    },
+    {
+      "file": "D57.jpg",
+      "prediction": "D",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "D",
+          "confidence": 1.0
+        },
+        {
+          "label": "I",
+          "confidence": 1.1894500486873374e-18
+        },
+        {
+          "label": "space",
+          "confidence": 1.4969261363173397e-19
+        },
+        {
+          "label": "P",
+          "confidence": 2.4588877517502138e-20
+        },
+        {
+          "label": "L",
+          "confidence": 4.796045698164306e-21
+        }
+      ],
+      "image": "captures\\quiz\\quiz_20250821_195500.jpg",
+      "timestamp": "2025-08-21 19:55:00"
+    },
+    {
+      "file": "space2130.jpg",
+      "prediction": "space",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "space",
+          "confidence": 1.0
+        },
+        {
+          "label": "P",
+          "confidence": 5.688539103741036e-14
+        },
+        {
+          "label": "L",
+          "confidence": 5.232252217109862e-16
+        },
+        {
+          "label": "Y",
+          "confidence": 1.095714706814895e-17
+        },
+        {
+          "label": "C",
+          "confidence": 9.862089804484912e-19
+        }
+      ],
+      "image": "captures\\quiz\\quiz_20250821_195729.jpg",
+      "timestamp": "2025-08-21 19:57:29"
+    },
+    {
+      "file": "space2130.jpg",
+      "prediction": "space",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "space",
+          "confidence": 1.0
+        },
+        {
+          "label": "P",
+          "confidence": 5.688539103741036e-14
+        },
+        {
+          "label": "L",
+          "confidence": 5.232252217109862e-16
+        },
+        {
+          "label": "Y",
+          "confidence": 1.095714706814895e-17
+        },
+        {
+          "label": "C",
+          "confidence": 9.862089804484912e-19
+        }
+      ],
+      "image": "captures\\quiz\\quiz_20250821_195740.jpg",
+      "timestamp": "2025-08-21 19:57:40"
+    },
+    {
+      "file": "V2414.jpg",
+      "prediction": "V",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "V",
+          "confidence": 1.0
+        },
+        {
+          "label": "E",
+          "confidence": 3.709607909740953e-08
+        },
+        {
+          "label": "X",
+          "confidence": 4.197148850693111e-09
+        },
+        {
+          "label": "N",
+          "confidence": 6.911980710011534e-11
+        },
+        {
+          "label": "I",
+          "confidence": 2.6725940904803736e-11
+        }
+      ],
+      "image": "captures\\quiz\\quiz_20250822_121520.jpg",
+      "timestamp": "2025-08-22 12:15:20"
+    },
+    {
+      "file": "V57.jpg",
+      "prediction": "V",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "V",
+          "confidence": 1.0
+        },
+        {
+          "label": "Y",
+          "confidence": 1.656904657920677e-08
+        },
+        {
+          "label": "W",
+          "confidence": 7.138120761140954e-09
+        },
+        {
+          "label": "N",
+          "confidence": 6.915805428331367e-11
+        },
+        {
+          "label": "G",
+          "confidence": 3.4090539419162624e-11
+        }
+      ],
+      "image": "captures\\quiz\\quiz_20250822_121610.jpg",
+      "timestamp": "2025-08-22 12:16:10"
+    },
+    {
+      "file": "V57.jpg",
+      "prediction": "V",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "V",
+          "confidence": 1.0
+        },
+        {
+          "label": "Y",
+          "confidence": 1.656904657920677e-08
+        },
+        {
+          "label": "W",
+          "confidence": 7.138120761140954e-09
+        },
+        {
+          "label": "N",
+          "confidence": 6.915805428331367e-11
+        },
+        {
+          "label": "G",
+          "confidence": 3.4090539419162624e-11
+        }
+      ],
+      "image": "captures\\quiz\\quiz_20250822_122146.jpg",
+      "timestamp": "2025-08-22 12:21:46"
+    },
+    {
+      "file": "V57.jpg",
+      "prediction": "V",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "V",
+          "confidence": 1.0
+        },
+        {
+          "label": "Y",
+          "confidence": 1.656904657920677e-08
+        },
+        {
+          "label": "W",
+          "confidence": 7.138120761140954e-09
+        },
+        {
+          "label": "N",
+          "confidence": 6.915805428331367e-11
+        },
+        {
+          "label": "G",
+          "confidence": 3.4090539419162624e-11
+        }
+      ],
+      "image": "captures\\quiz\\quiz_20250822_170144.jpg",
+      "timestamp": "2025-08-22 17:01:44"
+    },
+    {
+      "file": "asl_20250822_170417.jpg",
+      "prediction": "nothing",
+      "confidence": 0.9999517202377319,
+      "top5": [
+        {
+          "label": "nothing",
+          "confidence": 0.9999517202377319
+        },
+        {
+          "label": "W",
+          "confidence": 4.778222137247212e-05
+        },
+        {
+          "label": "F",
+          "confidence": 4.2057092741742963e-07
+        },
+        {
+          "label": "Y",
+          "confidence": 4.0358250075200885e-09
+        },
+        {
+          "label": "N",
+          "confidence": 3.729311970346316e-09
+        }
+      ],
+      "image": "captures\\quiz\\quiz_20250829_124742.jpg",
+      "timestamp": "2025-08-29 12:47:42"
+    },
+    {
+      "file": "K2933.jpg",
+      "prediction": "K",
+      "confidence": 0.9916988611221313,
+      "top5": [
+        {
+          "label": "K",
+          "confidence": 0.9916988611221313
+        },
+        {
+          "label": "I",
+          "confidence": 0.008288253098726273
+        },
+        {
+          "label": "Y",
+          "confidence": 1.1897973308805376e-05
+        },
+        {
+          "label": "G",
+          "confidence": 6.305406827777915e-07
+        },
+        {
+          "label": "D",
+          "confidence": 1.6156354831764475e-07
+        }
+      ],
+      "image": "captures\\quiz\\quiz_20250903_185340.jpg",
+      "timestamp": "2025-09-03 18:53:40"
+    }
+  ],
+  "live": [
+    {
+      "file": "captures/asl_20250820_034439.png",
+      "image": "history_images\\live\\live_20250820_034439.jpg",
+      "prediction": "P",
+      "confidence": 0.9995785355567932,
+      "top5": [
+        {
+          "label": "P",
+          "confidence": 0.9995785355567932
+        },
+        {
+          "label": "nothing",
+          "confidence": 0.00021071679657325149
+        },
+        {
+          "label": "W",
+          "confidence": 0.0001487473928136751
+        },
+        {
+          "label": "Y",
+          "confidence": 6.0306298109935597e-05
+        },
+        {
+          "label": "del",
+          "confidence": 7.35940886897879e-07
+        }
+      ],
+      "timestamp": "2025-08-20 03:44:39"
+    },
+    {
+      "file": "captures/asl_20250820_034709.png",
+      "image": "history_images\\live\\live_20250820_034709.jpg",
+      "prediction": "nothing",
+      "confidence": 0.9999994039535522,
+      "top5": [
+        {
+          "label": "nothing",
+          "confidence": 0.9999994039535522
+        },
+        {
+          "label": "Y",
+          "confidence": 5.353671213015332e-07
+        },
+        {
+          "label": "W",
+          "confidence": 2.446037505876575e-08
+        },
+        {
+          "label": "G",
+          "confidence": 3.841716278429885e-09
+        },
+        {
+          "label": "H",
+          "confidence": 3.2298457242063705e-09
+        }
+      ],
+      "timestamp": "2025-08-20 03:47:09"
+    },
+    {
+      "file": "..\\captures\\live\\asl_20250820_042108.jpg",
+      "image": "..\\captures\\live\\asl_20250820_042108.jpg",
+      "prediction": "E",
+      "confidence": 0.9675062298774719,
+      "top5": [
+        {
+          "label": "E",
+          "confidence": 0.9675062298774719
+        },
+        {
+          "label": "F",
+          "confidence": 0.03217712789773941
+        },
+        {
+          "label": "nothing",
+          "confidence": 0.00012722333485726267
+        },
+        {
+          "label": "X",
+          "confidence": 8.913611964089796e-05
+        },
+        {
+          "label": "P",
+          "confidence": 6.652203592238948e-05
+        },
+        {
+          "label": "C",
+          "confidence": 1.1812348930106964e-05
+        },
+        {
+          "label": "J",
+          "confidence": 1.1225220987398643e-05
+        },
+        {
+          "label": "N",
+          "confidence": 9.116879482462537e-06
+        },
+        {
+          "label": "W",
+          "confidence": 1.2897810393042164e-06
+        },
+        {
+          "label": "Q",
+          "confidence": 1.3700068279831612e-07
+        },
+        {
+          "label": "G",
+          "confidence": 8.649182348108297e-08
+        },
+        {
+          "label": "H",
+          "confidence": 8.428094133705599e-08
+        },
+        {
+          "label": "del",
+          "confidence": 4.700595113149575e-08
+        },
+        {
+          "label": "A",
+          "confidence": 2.8256650352886936e-08
+        },
+        {
+          "label": "space",
+          "confidence": 2.6719964907329086e-08
+        },
+        {
+          "label": "O",
+          "confidence": 9.92346471662131e-09
+        },
+        {
+          "label": "S",
+          "confidence": 6.607640656852709e-09
+        },
+        {
+          "label": "M",
+          "confidence": 3.2288005602509884e-09
+        },
+        {
+          "label": "I",
+          "confidence": 2.1394335192326253e-09
+        },
+        {
+          "label": "Y",
+          "confidence": 8.210752078241512e-10
+        },
+        {
+          "label": "D",
+          "confidence": 5.354897636422606e-10
+        },
+        {
+          "label": "B",
+          "confidence": 5.340393127717391e-10
+        },
+        {
+          "label": "R",
+          "confidence": 1.0708221809263563e-10
+        },
+        {
+          "label": "Z",
+          "confidence": 2.0654597823743792e-12
+        },
+        {
+          "label": "V",
+          "confidence": 1.406824309824195e-12
+        },
+        {
+          "label": "K",
+          "confidence": 1.3886215311301187e-12
+        },
+        {
+          "label": "U",
+          "confidence": 5.030884563106408e-13
+        },
+        {
+          "label": "T",
+          "confidence": 7.942409073090004e-14
+        },
+        {
+          "label": "L",
+          "confidence": 2.189026420863099e-15
+        }
+      ],
+      "timestamp": "2025-08-20 04:21:08"
+    },
+    {
+      "file": "..\\captures\\live\\asl_20250820_042625.jpg",
+      "image": "..\\captures\\live\\asl_20250820_042625.jpg",
+      "prediction": "P",
+      "confidence": 0.8564509153366089,
+      "top5": [
+        {
+          "label": "P",
+          "confidence": 0.8564509153366089
+        },
+        {
+          "label": "Y",
+          "confidence": 0.1433534026145935
+        },
+        {
+          "label": "G",
+          "confidence": 9.247626439901069e-05
+        },
+        {
+          "label": "nothing",
+          "confidence": 6.662467785645276e-05
+        },
+        {
+          "label": "W",
+          "confidence": 2.1250034478725865e-05
+        }
+      ],
+      "timestamp": "2025-08-20 04:26:26"
+    },
+    {
+      "file": "..\\captures\\live\\asl_20250820_144248.jpg",
+      "image": "..\\captures\\live\\asl_20250820_144248.jpg",
+      "prediction": "F",
+      "confidence": 0.9639766812324524,
+      "top5": [
+        {
+          "label": "F",
+          "confidence": 0.9639766812324524
+        },
+        {
+          "label": "space",
+          "confidence": 0.03538490831851959
+        },
+        {
+          "label": "G",
+          "confidence": 0.00023849663557484746
+        },
+        {
+          "label": "X",
+          "confidence": 0.00023204655735753477
+        },
+        {
+          "label": "C",
+          "confidence": 0.00013099805801175535
+        }
+      ],
+      "timestamp": "2025-08-20 14:42:48"
+    },
+    {
+      "file": "captures\\live\\asl_20250820_144403.jpg",
+      "image": "captures\\live\\asl_20250820_144403.jpg",
+      "prediction": "E",
+      "confidence": 0.7797358632087708,
+      "top5": [
+        {
+          "label": "E",
+          "confidence": 0.7797358632087708
+        },
+        {
+          "label": "F",
+          "confidence": 0.2192002236843109
+        },
+        {
+          "label": "X",
+          "confidence": 0.0010174382477998734
+        },
+        {
+          "label": "G",
+          "confidence": 2.321773899893742e-05
+        },
+        {
+          "label": "J",
+          "confidence": 1.9144508769386448e-05
+        }
+      ],
+      "timestamp": "2025-08-20 14:44:03"
+    },
+    {
+      "file": "captures\\live\\asl_20250820_190923.jpg",
+      "image": "captures\\quiz\\quiz_20250820_190923.jpg",
+      "prediction": "X",
+      "confidence": 0.8190256953239441,
+      "top5": [
+        {
+          "label": "X",
+          "confidence": 0.8190256953239441
+        },
+        {
+          "label": "F",
+          "confidence": 0.11237289756536484
+        },
+        {
+          "label": "J",
+          "confidence": 0.06850972026586533
+        },
+        {
+          "label": "space",
+          "confidence": 4.495145913097076e-05
+        },
+        {
+          "label": "G",
+          "confidence": 3.529276364133693e-05
+        }
+      ],
+      "timestamp": "2025-08-20 19:09:23"
+    },
+    {
+      "file": "captures\\live\\asl_20250820_192302.jpg",
+      "image": "captures\\quiz\\quiz_20250820_192302.jpg",
+      "prediction": "F",
+      "confidence": 0.9996523857116699,
+      "top5": [
+        {
+          "label": "F",
+          "confidence": 0.9996523857116699
+        },
+        {
+          "label": "P",
+          "confidence": 0.0003412118530832231
+        },
+        {
+          "label": "G",
+          "confidence": 3.637567942860187e-06
+        },
+        {
+          "label": "space",
+          "confidence": 5.420500315267418e-07
+        },
+        {
+          "label": "E",
+          "confidence": 5.208486300034565e-07
+        }
+      ],
+      "timestamp": "2025-08-20 19:23:02"
+    },
+    {
+      "file": "C:\\Study_and_Career\\Job\\Unified\\Projects\\ASL_detection\\captures\\live\\asl_20250820_192726.jpg",
+      "image": "captures\\quiz\\quiz_20250820_192726.jpg",
+      "prediction": "F",
+      "confidence": 0.9847869277000427,
+      "top5": [
+        {
+          "label": "F",
+          "confidence": 0.9847869277000427
+        },
+        {
+          "label": "Y",
+          "confidence": 0.015187939628958702
+        },
+        {
+          "label": "W",
+          "confidence": 2.4701559595996514e-05
+        },
+        {
+          "label": "P",
+          "confidence": 4.058237550452759e-07
+        },
+        {
+          "label": "H",
+          "confidence": 2.59908929933772e-08
+        }
+      ],
+      "timestamp": "2025-08-20 19:27:26"
+    },
+    {
+      "file": "C:\\Study_and_Career\\Job\\Unified\\Projects\\ASL_detection\\captures\\live\\asl_20250820_200811.jpg",
+      "image": "captures\\quiz\\quiz_20250820_200811.jpg",
+      "prediction": "F",
+      "confidence": 1.0,
+      "top5": [
+        {
+          "label": "F",
+          "confidence": 1.0
+        },
+        {
+          "label": "G",
+          "confidence": 3.049035912638942e-09
+        },
+        {
+          "label": "J",
+          "confidence": 1.549623984686832e-09
+        },
+        {
+          "label": "X",
+          "confidence": 1.4037540574385332e-10
+        },
+        {
+          "label": "P",
+          "confidence": 1.2190096154718333e-10
+        }
+      ],
+      "timestamp": "2025-08-20 20:08:11"
+    },
+    {
+      "file": "C:\\Study_and_Career\\Job\\Unified\\Projects\\ASL_detection\\captures\\live\\asl_20250820_200842.jpg",
+      "image": "captures\\quiz\\quiz_20250820_200842.jpg",
+      "prediction": "X",
+      "confidence": 0.49979332089424133,
+      "top5": [
+        {
+          "label": "X",
+          "confidence": 0.49979332089424133
+        },
+        {
+          "label": "F",
+          "confidence": 0.4995248019695282
+        },
+        {
+          "label": "E",
+          "confidence": 0.0006428406923078001
+        },
+        {
+          "label": "N",
+          "confidence": 1.9704728401848115e-05
+        },
+        {
+          "label": "G",
+          "confidence": 1.914065251185093e-05
+        }
+      ],
+      "timestamp": "2025-08-20 20:08:42"
+    },
+    {
+      "file": "C:\\Study_and_Career\\Job\\Unified\\Projects\\ASL_detection\\captures\\live\\asl_20250820_201022.jpg",
+      "image": "captures\\quiz\\quiz_20250820_201023.jpg",
+      "prediction": "F",
+      "confidence": 0.9999960660934448,
+      "top5": [
+        {
+          "label": "F",
+          "confidence": 0.9999960660934448
+        },
+        {
+          "label": "X",
+          "confidence": 2.0221134491293924e-06
+        },
+        {
+          "label": "P",
+          "confidence": 1.7649789469942334e-06
+        },
+        {
+          "label": "J",
+          "confidence": 1.6250021417363314e-07
+        },
+        {
+          "label": "H",
+          "confidence": 1.1156399359890656e-08
+        }
+      ],
+      "timestamp": "2025-08-20 20:10:23"
+    },
+    {
+      "file": "C:\\Study_and_Career\\Job\\Unified\\Projects\\ASL_detection\\captures\\live\\asl_20250820_201136.jpg",
+      "image": "captures\\quiz\\quiz_20250820_201136.jpg",
+      "prediction": "F",
+      "confidence": 0.644440770149231,
+      "top5": [
+        {
+          "label": "F",
+          "confidence": 0.644440770149231
+        },
+        {
+          "label": "N",
+          "confidence": 0.31865453720092773
+        },
+        {
+          "label": "E",
+          "confidence": 0.032630227506160736
+        },
+        {
+          "label": "X",
+          "confidence": 0.0041899895295500755
+        },
+        {
+          "label": "G",
+          "confidence": 6.938642036402598e-05
+        }
+      ],
+      "timestamp": "2025-08-20 20:11:36"
+    },
+    {
+      "file": "C:\\Study_and_Career\\Job\\Unified\\Projects\\ASL_detection\\captures\\live\\asl_20250820_201136.jpg",
+      "image": "captures\\quiz\\quiz_20250820_201139.jpg",
+      "prediction": "F",
+      "confidence": 0.644440770149231,
+      "top5": [
+        {
+          "label": "F",
+          "confidence": 0.644440770149231
+        },
+        {
+          "label": "N",
+          "confidence": 0.31865453720092773
+        },
+        {
+          "label": "E",
+          "confidence": 0.032630227506160736
+        },
+        {
+          "label": "X",
+          "confidence": 0.0041899895295500755
+        },
+        {
+          "label": "G",
+          "confidence": 6.938642036402598e-05
+        }
+      ],
+      "timestamp": "2025-08-20 20:11:39"
+    },
+    {
+      "file": "C:\\Study_and_Career\\Job\\Unified\\Projects\\ASL_detection\\captures\\live\\asl_20250820_201149.jpg",
+      "image": "captures\\quiz\\quiz_20250820_201150.jpg",
+      "prediction": "F",
+      "confidence": 0.993895947933197,
+      "top5": [
+        {
+          "label": "F",
+          "confidence": 0.993895947933197
+        },
+        {
+          "label": "P",
+          "confidence": 0.0029484780970960855
+        },
+        {
+          "label": "N",
+          "confidence": 0.0013389027444645762
+        },
+        {
+          "label": "E",
+          "confidence": 0.0013174146879464388
+        },
+        {
+          "label": "G",
+          "confidence": 0.00027230678824707866
+        }
+      ],
+      "timestamp": "2025-08-20 20:11:50"
+    },
+    {
+      "file": "C:\\Study_and_Career\\Job\\Unified\\Projects\\ASL_detection\\captures\\live\\asl_20250821_132623.jpg",
+      "image": "captures\\quiz\\quiz_20250821_132623.jpg",
+      "prediction": "W",
+      "confidence": 0.9999967813491821,
+      "top5": [
+        {
+          "label": "W",
+          "confidence": 0.9999967813491821
+        },
+        {
+          "label": "F",
+          "confidence": 3.222851319151232e-06
+        },
+        {
+          "label": "Y",
+          "confidence": 2.64957673579147e-08
+        },
+        {
+          "label": "P",
+          "confidence": 8.68296753941955e-13
+        },
+        {
+          "label": "H",
+          "confidence": 3.933311467328726e-13
+        }
+      ],
+      "timestamp": "2025-08-21 13:26:23"
+    },
+    {
+      "file": "C:\\Study_and_Career\\Job\\Unified\\Projects\\ASL_detection\\captures\\live\\asl_20250821_200245.jpg",
+      "image": "captures\\quiz\\quiz_20250821_200246.jpg",
+      "prediction": "F",
+      "confidence": 0.9999988079071045,
+      "top5": [
+        {
+          "label": "F",
+          "confidence": 0.9999988079071045
+        },
+        {
+          "label": "G",
+          "confidence": 7.047608505672542e-07
+        },
+        {
+          "label": "J",
+          "confidence": 3.313976435492805e-07
+        },
+        {
+          "label": "P",
+          "confidence": 1.0208509593212511e-07
+        },
+        {
+          "label": "Y",
+          "confidence": 3.442207585635515e-08
+        }
+      ],
+      "timestamp": "2025-08-21 20:02:46"
+    },
+    {
+      "file": "C:\\Study_and_Career\\Job\\Unified\\Projects\\ASL_detection\\captures\\live\\asl_20250821_200245.jpg",
+      "image": "captures\\quiz\\quiz_20250821_200301.jpg",
+      "prediction": "F",
+      "confidence": 0.9999988079071045,
+      "top5": [
+        {
+          "label": "F",
+          "confidence": 0.9999988079071045
+        },
+        {
+          "label": "G",
+          "confidence": 7.047608505672542e-07
+        },
+        {
+          "label": "J",
+          "confidence": 3.313976435492805e-07
+        },
+        {
+          "label": "P",
+          "confidence": 1.0208509593212511e-07
+        },
+        {
+          "label": "Y",
+          "confidence": 3.442207585635515e-08
+        }
+      ],
+      "timestamp": "2025-08-21 20:03:01"
+    },
+    {
+      "file": "C:\\Study_and_Career\\Job\\Unified\\Projects\\ASL_detection\\captures\\live\\asl_20250821_203057.jpg",
+      "image": "captures\\quiz\\quiz_20250821_203057.jpg",
+      "prediction": "F",
+      "confidence": 0.9132312536239624,
+      "top5": [
+        {
+          "label": "F",
+          "confidence": 0.9132312536239624
+        },
+        {
+          "label": "nothing",
+          "confidence": 0.08663719892501831
+        },
+        {
+          "label": "W",
+          "confidence": 7.905452366685495e-05
+        },
+        {
+          "label": "P",
+          "confidence": 4.3534571886993945e-05
+        },
+        {
+          "label": "N",
+          "confidence": 3.681237330965814e-06
+        }
+      ],
+      "timestamp": "2025-08-21 20:30:57"
+    },
+    {
+      "file": "C:\\Study_and_Career\\Job\\Unified\\Projects\\ASL_detection\\captures\\live\\asl_20250821_203057.jpg",
+      "image": "captures\\quiz\\quiz_20250821_203108.jpg",
+      "prediction": "F",
+      "confidence": 0.9132312536239624,
+      "top5": [
+        {
+          "label": "F",
+          "confidence": 0.9132312536239624
+        },
+        {
+          "label": "nothing",
+          "confidence": 0.08663719892501831
+        },
+        {
+          "label": "W",
+          "confidence": 7.905452366685495e-05
+        },
+        {
+          "label": "P",
+          "confidence": 4.3534571886993945e-05
+        },
+        {
+          "label": "N",
+          "confidence": 3.681237330965814e-06
+        }
+      ],
+      "timestamp": "2025-08-21 20:31:08"
+    },
+    {
+      "file": "C:\\Study_and_Career\\Job\\Unified\\Projects\\ASL_detection\\captures\\live\\asl_20250821_203221.jpg",
+      "image": "captures\\quiz\\quiz_20250821_203221.jpg",
+      "prediction": "F",
+      "confidence": 0.9999994039535522,
+      "top5": [
+        {
+          "label": "F",
+          "confidence": 0.9999994039535522
+        },
+        {
+          "label": "P",
+          "confidence": 3.3920977671186847e-07
+        },
+        {
+          "label": "Y",
+          "confidence": 2.2092935125783697e-07
+        },
+        {
+          "label": "space",
+          "confidence": 6.657739637372373e-11
+        },
+        {
+          "label": "J",
+          "confidence": 3.6159693295179096e-11
+        }
+      ],
+      "timestamp": "2025-08-21 20:32:21"
+    },
+    {
+      "file": "C:\\Study_and_Career\\Job\\Unified\\Projects\\ASL_detection\\captures\\live\\asl_20250821_203451.jpg",
+      "image": "captures\\quiz\\quiz_20250821_203451.jpg",
+      "prediction": "H",
+      "confidence": 0.918197751045227,
+      "top5": [
+        {
+          "label": "H",
+          "confidence": 0.918197751045227
+        },
+        {
+          "label": "P",
+          "confidence": 0.07786957174539566
+        },
+        {
+          "label": "nothing",
+          "confidence": 0.002027246868237853
+        },
+        {
+          "label": "W",
+          "confidence": 0.0018412546487525105
+        },
+        {
+          "label": "Y",
+          "confidence": 5.335550304153003e-05
+        }
+      ],
+      "timestamp": "2025-08-21 20:34:51"
+    },
+    {
+      "file": "C:\\Study_and_Career\\Job\\Unified\\Projects\\ASL_detection\\captures\\live\\asl_20250821_203451.jpg",
+      "image": "captures\\quiz\\quiz_20250821_203511.jpg",
+      "prediction": "H",
+      "confidence": 0.918197751045227,
+      "top5": [
+        {
+          "label": "H",
+          "confidence": 0.918197751045227
+        },
+        {
+          "label": "P",
+          "confidence": 0.07786957174539566
+        },
+        {
+          "label": "nothing",
+          "confidence": 0.002027246868237853
+        },
+        {
+          "label": "W",
+          "confidence": 0.0018412546487525105
+        },
+        {
+          "label": "Y",
+          "confidence": 5.335550304153003e-05
+        }
+      ],
+      "timestamp": "2025-08-21 20:35:11"
+    },
+    {
+      "file": "C:\\Study_and_Career\\Job\\Unified\\Projects\\ASL_detection\\captures\\live\\asl_20250821_203523.jpg",
+      "image": "captures\\quiz\\quiz_20250821_203523.jpg",
+      "prediction": "P",
+      "confidence": 0.7422580122947693,
+      "top5": [
+        {
+          "label": "P",
+          "confidence": 0.7422580122947693
+        },
+        {
+          "label": "Y",
+          "confidence": 0.2485233098268509
+        },
+        {
+          "label": "W",
+          "confidence": 0.00710254767909646
+        },
+        {
+          "label": "H",
+          "confidence": 0.001430912991054356
+        },
+        {
+          "label": "J",
+          "confidence": 0.00042010226752609015
+        }
+      ],
+      "timestamp": "2025-08-21 20:35:23"
+    },
+    {
+      "file": "C:\\Study_and_Career\\Job\\Unified\\Projects\\ASL_detection\\captures\\live\\asl_20250821_203614.jpg",
+      "image": "captures\\quiz\\quiz_20250821_203615.jpg",
+      "prediction": "F",
+      "confidence": 0.8631616234779358,
+      "top5": [
+        {
+          "label": "F",
+          "confidence": 0.8631616234779358
+        },
+        {
+          "label": "P",
+          "confidence": 0.1285821795463562
+        },
+        {
+          "label": "X",
+          "confidence": 0.006638940889388323
+        },
+        {
+          "label": "W",
+          "confidence": 0.0007100003422237933
+        },
+        {
+          "label": "space",
+          "confidence": 0.0006830487982369959
+        }
+      ],
+      "timestamp": "2025-08-21 20:36:15"
+    },
+    {
+      "file": "C:\\Study_and_Career\\Job\\Unified\\Projects\\ASL_detection\\captures\\live\\asl_20250822_170417.jpg",
+      "image": "captures\\quiz\\quiz_20250822_170417.jpg",
+      "prediction": "nothing",
+      "confidence": 0.9998679161071777,
+      "top5": [
+        {
+          "label": "nothing",
+          "confidence": 0.9998679161071777
+        },
+        {
+          "label": "W",
+          "confidence": 0.00013156507338862866
+        },
+        {
+          "label": "F",
+          "confidence": 5.199449333304074e-07
+        },
+        {
+          "label": "N",
+          "confidence": 6.619861547818573e-09
+        },
+        {
+          "label": "Y",
+          "confidence": 4.334039349629393e-09
+        }
+      ],
+      "timestamp": "2025-08-22 17:04:17"
+    },
+    {
+      "file": "C:\\Study_and_Career\\Job\\Unified\\Projects\\ASL_detection\\captures\\live\\asl_20250901_220215.jpg",
+      "image": "captures\\quiz\\quiz_20250901_220215.jpg",
+      "prediction": "Y",
+      "confidence": 0.9143902659416199,
+      "top5": [
+        {
+          "label": "Y",
+          "confidence": 0.9143902659416199
+        },
+        {
+          "label": "W",
+          "confidence": 0.0597393698990345
+        },
+        {
+          "label": "F",
+          "confidence": 0.02488693781197071
+        },
+        {
+          "label": "P",
+          "confidence": 0.000970635621342808
+        },
+        {
+          "label": "space",
+          "confidence": 9.27362543734489e-06
+        }
+      ],
+      "timestamp": "2025-09-01 22:02:15"
+    }
+  ],
+  "word": [
+    {
+      "word": "Y",
+      "meaning": "(abstract) This place; this location.",
+      "letters": [
+        "Y"
+      ],
+      "images": [
+        "word_maker\\Y_1_20250820_033930.jpg"
+      ],
+      "timestamp": "2025-08-20 03:39:30"
+    },
+    {
+      "word": "FF",
+      "meaning": "No valid meaning found (possibly gibberish).",
+      "letters": [
+        {
+          "label": "F"
+        },
+        {
+          "label": "F"
+        }
+      ],
+      "images": [
+        "history_images\\word\\20250820_050730\\1_{'label': 'F'}_20250820_050730.jpg",
+        "history_images\\word\\20250820_050730\\2_{'label': 'F'}_20250820_050730.jpg"
+      ],
+      "file": "FF.jpg",
+      "datetime": "2025-08-20 05:07:30",
+      "timestamp": "2025-08-20 05:07:30"
+    },
+    {
+      "word": "Fnothing",
+      "meaning": "No valid meaning found (possibly gibberish).",
+      "letters": [
+        {
+          "label": "F"
+        },
+        {
+          "label": "nothing"
+        }
+      ],
+      "images": [
+        "history_images\\word\\20250820_051638\\1_{'label': 'F'}_20250820_051638.jpg",
+        "history_images\\word\\20250820_051638\\2_{'label': 'nothing'}_20250820_051638.jpg"
+      ],
+      "file": "Fnothing.jpg",
+      "datetime": "2025-08-20 05:16:38",
+      "timestamp": "2025-08-20 05:16:38"
+    },
+    {
+      "word": "ME",
+      "meaning": "As the direct object of a verb.",
+      "letters": [
+        {
+          "label": "M"
+        },
+        {
+          "label": "E"
+        }
+      ],
+      "images": [
+        "..\\captures\\word_maker\\ME_1_M.jpg",
+        "..\\captures\\word_maker\\ME_2_E.jpg"
+      ],
+      "file": "ME.jpg",
+      "datetime": "2025-08-20 13:58:09",
+      "timestamp": "2025-08-20 13:58:09"
+    },
+    {
+      "word": "FM",
+      "meaning": "No valid meaning found (possibly gibberish).",
+      "letters": [
+        {
+          "label": "F"
+        },
+        {
+          "label": "M"
+        }
+      ],
+      "images": [
+        "..\\captures\\word_maker\\FM_1_F.jpg",
+        "..\\captures\\word_maker\\FM_2_M.jpg"
+      ],
+      "file": "FM.jpg",
+      "datetime": "2025-08-20 20:14:46",
+      "timestamp": "2025-08-20 20:14:46"
+    },
+    {
+      "word": "nothingFF",
+      "meaning": "No valid meaning found (possibly gibberish).",
+      "letters": [
+        {
+          "label": "nothing"
+        },
+        {
+          "label": "F"
+        },
+        {
+          "label": "F"
+        }
+      ],
+      "images": [
+        "..\\captures\\word_maker\\nothingFF_1_nothing.jpg",
+        "..\\captures\\word_maker\\nothingFF_2_F.jpg",
+        "..\\captures\\word_maker\\nothingFF_3_F.jpg"
+      ],
+      "file": "nothingFF.jpg",
+      "datetime": "2025-08-21 13:27:14",
+      "timestamp": "2025-08-21 13:27:14"
+    },
+    {
+      "word": "FF",
+      "meaning": "No valid meaning found (possibly gibberish).",
+      "letters": [
+        {
+          "label": "F"
+        },
+        {
+          "label": "F"
+        }
+      ],
+      "images": [
+        "..\\captures\\word_maker\\FF_1_F.jpg",
+        "..\\captures\\word_maker\\FF_2_F.jpg"
+      ],
+      "file": "FF.jpg",
+      "datetime": "2025-08-21 20:08:19",
+      "timestamp": "2025-08-21 20:08:19"
+    },
+    {
+      "word": "Y",
+      "meaning": "(abstract) This place; this location.",
+      "letters": [
+        {
+          "label": "Y"
+        }
+      ],
+      "images": [
+        "captures\\word_maker\\20250903_195537\\1_Y_20250903_195537.jpg"
+      ],
+      "file": "Y.jpg",
+      "datetime": "2025-09-03 19:55:37",
+      "timestamp": "2025-09-03 19:55:37"
+    },
+    {
+      "word": "Y",
+      "meaning": "(abstract) This place; this location.",
+      "letters": [
+        {
+          "label": "Y"
+        }
+      ],
+      "images": [
+        "captures\\word_maker\\20250903_195608\\1_Y_20250903_195608.jpg"
+      ],
+      "file": "Y.jpg",
+      "datetime": "2025-09-03 19:56:08",
+      "timestamp": "2025-09-03 19:56:08"
+    }
+  ],
+  "quiz": [
+    {
+      "image": "..\\captures\\quiz\\quiz_20250820_141512.jpg",
+      "guess": "N",
+      "correct": "N",
+      "result": true,
+      "timestamp": "2025-08-20 14:15:12"
+    },
+    {
+      "image": "..\\captures\\quiz\\quiz_20250820_141722.jpg",
+      "guess": "N",
+      "correct": "N",
+      "result": true,
+      "timestamp": "2025-08-20 14:17:22"
+    },
+    {
+      "image": "..\\captures\\quiz\\quiz_20250820_141731.jpg",
+      "guess": "M",
+      "correct": "Y",
+      "result": false,
+      "timestamp": "2025-08-20 14:17:31"
+    },
+    {
+      "image": "..\\captures\\quiz\\quiz_20250820_141737.jpg",
+      "guess": "O",
+      "correct": "O",
+      "result": true,
+      "timestamp": "2025-08-20 14:17:37"
+    },
+    {
+      "image": "..\\captures\\quiz\\quiz_20250820_141743.jpg",
+      "guess": "C",
+      "correct": "C",
+      "result": true,
+      "timestamp": "2025-08-20 14:17:43"
+    },
+    {
+      "image": "..\\captures\\quiz\\quiz_20250820_141750.jpg",
+      "guess": "I",
+      "correct": "Z",
+      "result": false,
+      "timestamp": "2025-08-20 14:17:50"
+    },
+    {
+      "image": "..\\captures\\quiz\\quiz_20250820_141756.jpg",
+      "guess": "G",
+      "correct": "Q",
+      "result": false,
+      "timestamp": "2025-08-20 14:17:56"
+    },
+    {
+      "image": "..\\captures\\quiz\\quiz_20250820_141803.jpg",
+      "guess": "W",
+      "correct": "B",
+      "result": false,
+      "timestamp": "2025-08-20 14:18:03"
+    },
+    {
+      "image": "..\\captures\\quiz\\quiz_20250820_141813.jpg",
+      "guess": "U",
+      "correct": "Q",
+      "result": false,
+      "timestamp": "2025-08-20 14:18:13"
+    },
+    {
+      "image": "..\\captures\\quiz\\quiz_20250820_141819.jpg",
+      "guess": "G",
+      "correct": "G",
+      "result": true,
+      "timestamp": "2025-08-20 14:18:19"
+    },
+    {
+      "image": "..\\captures\\quiz\\quiz_20250820_141832.jpg",
+      "guess": "V",
+      "correct": "X",
+      "result": false,
+      "timestamp": "2025-08-20 14:18:32"
+    },
+    {
+      "image": "..\\captures\\quiz\\quiz_20250820_142012.jpg",
+      "guess": "A",
+      "correct": "R",
+      "result": false,
+      "timestamp": "2025-08-20 14:20:12"
+    },
+    {
+      "image": "..\\captures\\quiz\\quiz_20250820_143805.jpg",
+      "guess": "A",
+      "correct": "X",
+      "result": false,
+      "timestamp": "2025-08-20 14:38:05"
+    },
+    {
+      "image": "..\\captures\\quiz\\quiz_20250820_144812.jpg",
+      "guess": "M",
+      "correct": "E",
+      "result": false,
+      "timestamp": "2025-08-20 14:48:12"
+    },
+    {
+      "image": "..\\captures\\quiz\\quiz_20250820_144812.jpg",
+      "guess": "M",
+      "correct": "E",
+      "result": false,
+      "timestamp": "2025-08-20 14:48:12"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_145250.jpg",
+      "guess": "J",
+      "correct": "R",
+      "result": false,
+      "timestamp": "2025-08-20 14:52:50"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_145250.jpg",
+      "guess": "J",
+      "correct": "R",
+      "result": false,
+      "timestamp": "2025-08-20 14:52:50"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_145910.jpg",
+      "guess": "L",
+      "correct": "R",
+      "result": false,
+      "timestamp": "2025-08-20 14:59:10"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_145910.jpg",
+      "guess": "L",
+      "correct": "R",
+      "result": false,
+      "timestamp": "2025-08-20 14:59:10"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_151643.jpg",
+      "guess": "L",
+      "correct": "D",
+      "result": false,
+      "timestamp": "2025-08-20 15:16:43"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_151643.jpg",
+      "guess": "L",
+      "correct": "D",
+      "result": false,
+      "timestamp": "2025-08-20 15:16:43"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_151650.jpg",
+      "guess": "P",
+      "correct": "P",
+      "result": true,
+      "timestamp": "2025-08-20 15:16:50"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_151650.jpg",
+      "guess": "P",
+      "correct": "P",
+      "result": true,
+      "timestamp": "2025-08-20 15:16:50"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_151705.jpg",
+      "guess": "A",
+      "correct": "A",
+      "result": true,
+      "timestamp": "2025-08-20 15:17:05"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_151705.jpg",
+      "guess": "A",
+      "correct": "A",
+      "result": true,
+      "timestamp": "2025-08-20 15:17:05"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_151714.jpg",
+      "guess": "K",
+      "correct": "K",
+      "result": true,
+      "timestamp": "2025-08-20 15:17:14"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_151714.jpg",
+      "guess": "K",
+      "correct": "K",
+      "result": true,
+      "timestamp": "2025-08-20 15:17:14"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_151721.jpg",
+      "guess": "N",
+      "correct": "N",
+      "result": true,
+      "timestamp": "2025-08-20 15:17:21"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_151721.jpg",
+      "guess": "N",
+      "correct": "N",
+      "result": true,
+      "timestamp": "2025-08-20 15:17:21"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_151729.jpg",
+      "guess": "N",
+      "correct": "N",
+      "result": true,
+      "timestamp": "2025-08-20 15:17:29"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_151729.jpg",
+      "guess": "N",
+      "correct": "N",
+      "result": true,
+      "timestamp": "2025-08-20 15:17:29"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_151737.jpg",
+      "guess": "M",
+      "correct": "M",
+      "result": true,
+      "timestamp": "2025-08-20 15:17:37"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_151737.jpg",
+      "guess": "M",
+      "correct": "M",
+      "result": true,
+      "timestamp": "2025-08-20 15:17:37"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_151743.jpg",
+      "guess": "O",
+      "correct": "O",
+      "result": true,
+      "timestamp": "2025-08-20 15:17:43"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_151743.jpg",
+      "guess": "O",
+      "correct": "O",
+      "result": true,
+      "timestamp": "2025-08-20 15:17:43"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_151749.jpg",
+      "guess": "F",
+      "correct": "D",
+      "result": false,
+      "timestamp": "2025-08-20 15:17:49"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_151749.jpg",
+      "guess": "F",
+      "correct": "D",
+      "result": false,
+      "timestamp": "2025-08-20 15:17:49"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_151802.jpg",
+      "guess": "B",
+      "correct": "H",
+      "result": false,
+      "timestamp": "2025-08-20 15:18:02"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_151802.jpg",
+      "guess": "B",
+      "correct": "H",
+      "result": false,
+      "timestamp": "2025-08-20 15:18:02"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_151957.jpg",
+      "guess": "E",
+      "correct": "H",
+      "result": false,
+      "timestamp": "2025-08-20 15:19:57"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_151957.jpg",
+      "guess": "E",
+      "correct": "H",
+      "result": false,
+      "timestamp": "2025-08-20 15:19:57"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_152000.jpg",
+      "guess": "A",
+      "correct": "F",
+      "result": false,
+      "timestamp": "2025-08-20 15:20:00"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_152000.jpg",
+      "guess": "A",
+      "correct": "F",
+      "result": false,
+      "timestamp": "2025-08-20 15:20:00"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_152004.jpg",
+      "guess": "A",
+      "correct": "V",
+      "result": false,
+      "timestamp": "2025-08-20 15:20:04"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_152004.jpg",
+      "guess": "A",
+      "correct": "V",
+      "result": false,
+      "timestamp": "2025-08-20 15:20:04"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_152008.jpg",
+      "guess": "A",
+      "correct": "T",
+      "result": false,
+      "timestamp": "2025-08-20 15:20:08"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_152008.jpg",
+      "guess": "A",
+      "correct": "T",
+      "result": false,
+      "timestamp": "2025-08-20 15:20:08"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_152011.jpg",
+      "guess": "A",
+      "correct": "C",
+      "result": false,
+      "timestamp": "2025-08-20 15:20:11"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_152011.jpg",
+      "guess": "A",
+      "correct": "C",
+      "result": false,
+      "timestamp": "2025-08-20 15:20:11"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_152015.jpg",
+      "guess": "A",
+      "correct": "Z",
+      "result": false,
+      "timestamp": "2025-08-20 15:20:15"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_152015.jpg",
+      "guess": "A",
+      "correct": "Z",
+      "result": false,
+      "timestamp": "2025-08-20 15:20:15"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_152019.jpg",
+      "guess": "A",
+      "correct": "K",
+      "result": false,
+      "timestamp": "2025-08-20 15:20:19"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_152019.jpg",
+      "guess": "A",
+      "correct": "K",
+      "result": false,
+      "timestamp": "2025-08-20 15:20:19"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_152023.jpg",
+      "guess": "A",
+      "correct": "D",
+      "result": false,
+      "timestamp": "2025-08-20 15:20:23"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_152023.jpg",
+      "guess": "A",
+      "correct": "D",
+      "result": false,
+      "timestamp": "2025-08-20 15:20:23"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_152028.jpg",
+      "guess": "A",
+      "correct": "H",
+      "result": false,
+      "timestamp": "2025-08-20 15:20:28"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_152028.jpg",
+      "guess": "A",
+      "correct": "H",
+      "result": false,
+      "timestamp": "2025-08-20 15:20:28"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_152032.jpg",
+      "guess": "A",
+      "correct": "R",
+      "result": false,
+      "timestamp": "2025-08-20 15:20:32"
+    },
+    {
+      "image": "captures\\quiz\\quiz_20250820_152032.jpg",
+      "guess": "A",
+      "correct": "R",
+      "result": false,
+      "timestamp": "2025-08-20 15:20:32"
+    }
+  ]
+}

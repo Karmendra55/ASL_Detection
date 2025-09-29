@@ -1,7 +1,7 @@
 American Sign Language Detection
 
 All the required files can be downloaded from here:
-`https://drive.google.com/drive/folders/1B-XwEg2IGBgBm4C4Uce3EwTnPae_P7zs?usp=drive_link`
+https://drive.google.com/drive/folders/1B-XwEg2IGBgBm4C4Uce3EwTnPae_P7zs?usp=drive_link
 
 End-to-end project to train and deploy an "American Sign Language (ASL) image classifier" and interactive word maker tool.
 

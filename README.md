@@ -41,16 +41,12 @@ OR
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 
-2) Install deps
-pip install -r requirements.txt
-or run the install_modules.bat
+2) Put your dataset under ./data (If you want to change it)
 
-3) Put your dataset under ./data (If you want to change it)
-
-4) Train
+3) Train
 python -m src.train
 
-5) Evaluate
+4) Evaluate
 python -m src.evaluate
 
 If you want to run the program using the Local Network:

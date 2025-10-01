@@ -80,9 +80,9 @@ Tune hyperparameters/paths in `src/config.py`.
 
 ## Extended Features
 
-Home → Introduction and overview of how ASL works
-Upload Prediction → Upload an image and predict ASL letter (saved to history)
-Live Camera Prediction → Real-time webcam gesture recognition
-Word Maker → Capture letters in sequence to form words with dictionary meanings
-Sample Gestures → Reference images to learn ASL letters
-Quiz Game → Interactive 10-question ASL quiz
+- Home → Introduction and overview of how ASL works
+- Upload Prediction → Upload an image and predict ASL letter (saved to history)
+- Live Camera Prediction → Real-time webcam gesture recognition
+- Word Maker → Capture letters in sequence to form words with dictionary meanings
+- Sample Gestures → Reference images to learn ASL letters
+- Quiz Game → Interactive 10-question ASL quiz

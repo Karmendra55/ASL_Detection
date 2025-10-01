@@ -1,11 +1,11 @@
-American Sign Language Detection
+# American Sign Language Detection
 
 All the required files can be downloaded from here:
 https://drive.google.com/drive/folders/1B-XwEg2IGBgBm4C4Uce3EwTnPae_P7zs?usp=drive_link
 
 End-to-end project to train and deploy an "American Sign Language (ASL) image classifier" and interactive word maker tool.
 
-Dataset Layout
+## Dataset Layout
 
 Please Download the Dataset first to use all the features properly:
 https://www.kaggle.com/datasets/grassknoted/asl-alphabet
@@ -30,7 +30,7 @@ then follow the steps below
 
 > If your folders differ, edit paths in `src/config.py`.
 
-Quickstart
+## Quickstart
 
 1) Run the app
 Open the file: run.bat
@@ -56,29 +56,29 @@ The best model and class mapping will be saved into `saved_models/`:
 - 'asl_mobilenetv2.h5'
 - 'class_names.json'
 
-Model
+## Model
 
 - Backbone: MobileNetV2 (ImageNet weights) with fine-tuning
 - Input: 160×160 RGB, normalized to [-1, 1]
 - Classes: 29 (A–Z, SPACE, DELETE, NOTHING)
 
-Config
+## Config
 
 Tune hyperparameters/paths in `src/config.py`.
 
-Notes & Tips
+## Notes & Tips
 
 - If classes like 'M/N/S' confuse the model, add augmentation or train longer.
 - Consider class-balanced sampling if you notice imbalance.
 - To enable mixed precision (faster on modern GPUs), set `MIXED_PRECISION=True` in config.
 - For larger images, bump `IMAGE_SIZE` (e.g., 224) but expect longer training.
 
-Streamlit App
+## Streamlit App
 
 - Upload a single image and get the predicted label with confidence.
 - After training, the app automatically loads `saved_models/asl_mobilenetv2.h5` & `class_names.json`.
 
-Extended Features (Word Maker App)
+## Extended Features
 
 Home → Introduction and overview of how ASL works
 Upload Prediction → Upload an image and predict ASL letter (saved to history)

@@ -21,9 +21,10 @@ data/
             Nothing1.jpg
             Space1.jpg
             Del1.jpg
+
     asl_alphabet_test/
-    A_test.jpg
-    ...
+        A_test.jpg
+        ...
 ```
 
 

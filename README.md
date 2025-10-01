@@ -12,18 +12,18 @@ https://www.kaggle.com/datasets/grassknoted/asl-alphabet
 
 ```markdown
 data/
-asl_alphabet_train/
-A/
-A1.jpg
-B/
-B1.jpg
-...
-Nothing1.jpg
-Space1.jpg
-Del1.jpg
-asl_alphabet_test/
-A_test.jpg
-...
+    asl_alphabet_train/
+        A/
+            A1.jpg
+        B/
+            B1.jpg
+        ...
+            Nothing1.jpg
+            Space1.jpg
+            Del1.jpg
+    asl_alphabet_test/
+    A_test.jpg
+    ...
 ```
 
 
